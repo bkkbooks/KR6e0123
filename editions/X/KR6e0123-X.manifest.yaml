@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0123_000-X.yaml, hash: 'sha256:472a5fc4ae67d6a146d9d68065709f465e77ef2364447b1bfed2936996978bd9'}
+  - {seq: 0, filename: KR6e0123_000-X.yaml, hash: 'sha256:271e34f9825779bcd7fc2aab38395fe707c1ca78acaf2bee7656c30fdcb767b8'}
   - {seq: 1, filename: KR6e0123_001-X.yaml, hash: 'sha256:767449f65583e61de00025bd47374776201c9ecbda536a39ac66f28f18e7fbc3'}
   - {seq: 2, filename: KR6e0123_002-X.yaml, hash: 'sha256:a21b39498e6fee47c3ab5f7c292ba7b5eb737df685d7973d1a2383510359d352'}
   - {seq: 3, filename: KR6e0123_003-X.yaml, hash: 'sha256:69816ff07131e786dee6e8dee178ccb64a71151926583f0f43b660541373856f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0123_000-X.markers.yaml, hash: 'sha256:8bfef271388d14d7dfcf915f517d0da7ca629d44df97a18d7ddedc8daf9467d3'}
+  - {seq: 0, role: markers, filename: assets/KR6e0123_000-X.markers.yaml, hash: 'sha256:1a7c24216df617eee34aa530f94426461cc5081414d6c5bd9e62c4dafe88cdd5'}
   - {seq: 1, role: markers, filename: assets/KR6e0123_001-X.markers.yaml, hash: 'sha256:830bd91c216e49ae09973656fe24e557ddc59f741ed790852622e387b3f8a070'}
   - {seq: 2, role: markers, filename: assets/KR6e0123_002-X.markers.yaml, hash: 'sha256:8d4faa8c29afdde68804aec41d7aa0754b4cb71432f5fff88831dd3172f19005'}
   - {seq: 3, role: markers, filename: assets/KR6e0123_003-X.markers.yaml, hash: 'sha256:b1f4c3b5507ae593e614498ee754ff3e026bd010c8f4fa11f698b565d9063fd4'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0123_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 239-A 大方廣佛華嚴經吞海集序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0123_X_000-mulu-2
     span:
-    - front
+    - body
     - 784
     - 784
   label: No. 239-B 大方廣佛華嚴經吞海集序
@@ -559,4 +559,4 @@ table_of_contents:
   label: 三十九入法界品 流通無盡經
   type: mulu
   level: 1
-hash: sha256:da1dcdc29245422ea4752bf48404ce00077a91eb3da510a4ca7a66bbb823930f
+hash: sha256:ee05853c023aad04fd6c98c3e11353aa1c134d5cabe59c90bdbc4c22cdf0547f
